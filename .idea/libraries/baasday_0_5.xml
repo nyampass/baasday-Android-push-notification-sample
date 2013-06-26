@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="baasday-0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/baasday-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../baasday-Android-Library/src" />
+    </SOURCES>
+  </library>
+</component>

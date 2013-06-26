@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gcm">
+    <CLASSES>
+      <root url="jar:///Applications/adt-bundle-mac-x86_64/sdk/extras/google/gcm/gcm-client/dist/gcm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
